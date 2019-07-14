@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sbpl\include\sbpl\utils\2Dgridsearch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\planners\adplanner.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\planners\ANAplanner.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\planners\araplanner.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\heuristics\embedded_heuristic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\discrete_space_information\environment.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\discrete_space_information\environment_nav2D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\discrete_space_information\environment_nav2Duu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\discrete_space_information\environment_navxythetalat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\discrete_space_information\environment_navxythetamlevlat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\discrete_space_information\environment_precomputed_adjacency_list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\discrete_space_information\environment_robarm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\discrete_space_information\environment_XXX.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\headers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\utils\heap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\heuristics\heuristic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\utils\key.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\planners\lazyARA.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\utils\list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\utils\mdp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\utils\mdpconfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\planners\mhaplanner.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\planners\planner.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\planners\ppcpplanner.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\planners\rstarplanner.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\utils\sbpl_bfs_2d.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\utils\sbpl_bfs_3d.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\sbpl_exception.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\utils\sbpl_fifo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\utils\utils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sbpl\include\sbpl\planners\viplanner.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="sbpl\utils\2Dgridsearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\planners\adplanner.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\planners\ANAplanner.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\planners\araplanner.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\utils\config.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\heuristics\embedded_heuristic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\discrete_space_information\environment_nav2D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\discrete_space_information\environment_nav2Duu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\discrete_space_information\environment_navxythetalat.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\discrete_space_information\environment_navxythetamlevlat.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\discrete_space_information\environment_robarm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\discrete_space_information\environment_XXX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\utils\heap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\planners\lazyARA.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\test\main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\utils\mdp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\planners\mhaplanner.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\planners\ppcpplanner.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\planners\rstarplanner.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\utils\utils.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbpl\planners\viplanner.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

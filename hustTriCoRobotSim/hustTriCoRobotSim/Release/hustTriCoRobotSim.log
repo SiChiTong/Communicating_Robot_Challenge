@@ -1,0 +1,45 @@
+﻿  main.cpp
+i:\2018_trico_robot_sim\msvc-ws\husttricorobotsim\husttricorobotsim\map.h(1128): warning C4018: “<=”: 有符号/无符号不匹配
+i:\2018_trico_robot_sim\msvc-ws\husttricorobotsim\husttricorobotsim\map.h(1129): warning C4018: “<=”: 有符号/无符号不匹配
+i:\2018_trico_robot_sim\msvc-ws\husttricorobotsim\sbpl\sbpl\include\sbpl\utils\mdp.h(68): warning C4297: “CMDPACTION::~CMDPACTION”: 假定函数不引发异常，但确实发生了
+  i:\2018_trico_robot_sim\msvc-ws\husttricorobotsim\sbpl\sbpl\include\sbpl\utils\mdp.h(68): note: 析构函数或释放器具有一个(可能是隐含的)非引发异常规范
+i:\2018_trico_robot_sim\msvc-ws\husttricorobotsim\sbpl\sbpl\include\sbpl\utils\mdp.h(105): warning C4297: “CMDPSTATE::~CMDPSTATE”: 假定函数不引发异常，但确实发生了
+  i:\2018_trico_robot_sim\msvc-ws\husttricorobotsim\sbpl\sbpl\include\sbpl\utils\mdp.h(105): note: 析构函数或释放器具有一个(可能是隐含的)非引发异常规范
+i:\2018_trico_robot_sim\msvc-ws\husttricorobotsim\husttricorobotsim\gui.h(585): warning C4305: “参数”: 从“double”到“GLfloat”截断
+i:\2018_trico_robot_sim\msvc-ws\husttricorobotsim\husttricorobotsim\gui.h(585): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+i:\2018_trico_robot_sim\msvc-ws\husttricorobotsim\husttricorobotsim\main.cpp(320): warning C4018: “<=”: 有符号/无符号不匹配
+    正在创建库 I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\hustTriCoRobotSim.lib 和对象 I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\hustTriCoRobotSim.exp
+  正在生成代码
+  8 of 12536 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+TypeIIRML.lib(ReflexxesAPI.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(ReflexxesAPI.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLVelocity.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLVelocity.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLPosition.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLPosition.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLVelocityCalculatePositionalExtrems.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLVelocityCalculatePositionalExtrems.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLVelocityMethods.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLVelocityMethods.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLVelocityFallBackStrategy.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLVelocityFallBackStrategy.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLPolynomial.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLPolynomial.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLCalculatePositionalExtrems.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLCalculatePositionalExtrems.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLStep1.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLStep1.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLFallBackStrategy.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLFallBackStrategy.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLStep3.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLStep3.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLStep2.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLStep2.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLVelocitySetupPhaseSyncSelectionVector.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLVelocitySetupPhaseSyncSelectionVector.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLVelocityIsPhaseSynchronizationPossible.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLVelocityIsPhaseSynchronizationPossible.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLDecisions.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLDecisions.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLSetupModifiedSelectionVector.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLSetupModifiedSelectionVector.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLIsPhaseSynchronizationPossible.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLIsPhaseSynchronizationPossible.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLStep1Profiles.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLStep1Profiles.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLStep1IntermediateProfiles.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLStep1IntermediateProfiles.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLDecisionTree1B.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLDecisionTree1B.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLDecisionTree1C.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLDecisionTree1C.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLDecisionTree1A.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLDecisionTree1A.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLQuicksort.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLQuicksort.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLStep2PhaseSynchronization.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLStep2PhaseSynchronization.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLStep2WithoutSynchronization.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLStep2WithoutSynchronization.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLDecisionTree2.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLDecisionTree2.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLStep2IntermediateProfiles.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLStep2IntermediateProfiles.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TypeIIRML.lib(TypeIIRMLStep2Profiles.obj) : warning LNK4099: 未找到 PDB“TypeIIRML.pdb”(使用“TypeIIRML.lib(TypeIIRMLStep2Profiles.obj)”或在“I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\TypeIIRML.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  hustTriCoRobotSim.vcxproj -> I:\2018_trico_robot_sim\msvc-ws\hustTriCoRobotSim\Release\hustTriCoRobotSim.dll
