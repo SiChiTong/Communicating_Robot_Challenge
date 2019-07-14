@@ -1,4 +1,2 @@
 # Communicating_Robot_Challenge
 共融机器人挑战赛仿真源码
-
-共融机器人挑战赛仿真源码
